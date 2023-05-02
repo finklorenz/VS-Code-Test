@@ -1,2 +1,3 @@
-print(1)
-print("test")
+
+print("test.")
+print('new feature')
